@@ -1,0 +1,5 @@
+{
+  "name": "TrackIt Dashboard",
+  "description": "Real-time bus tracking dashboard with session-based route visualization and brutalist design.",
+  "requestFramePermissions": []
+}
